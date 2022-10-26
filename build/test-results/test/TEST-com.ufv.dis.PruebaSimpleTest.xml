@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ufv.dis.PruebaSimpleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-26T18:31:47" hostname="DESKTOP-0OPNETF" time="0.064">
+  <properties/>
+  <testcase name="prueba1()" classname="com.ufv.dis.PruebaSimpleTest" time="0.064"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
